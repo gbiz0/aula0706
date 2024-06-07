@@ -1,0 +1,32 @@
+1- O que é o manifesto ágil?
+O Manifesto Ágil é um documento criado em 2001 por um grupo de desenvolvedores de software que estabelece os princípios e valores fundamentais para o desenvolvimento ágil de software. Ele foca na entrega rápida e contínua de software funcional, adaptando-se a mudanças, colaboração com o cliente e a interação entre indivíduos e equipes. Os quatro valores principais do manifesto são:
+
+    Indivíduos e interações mais que processos e ferramentas.
+    Software em funcionamento mais que documentação abrangente.
+    Colaboração com o cliente mais que negociação de contratos.
+    Responder a mudanças mais que seguir um plano.
+
+2- Qual a função do Backlog do produto na metodologia SCRUM?
+O Backlog do Produto é uma lista ordenada de tudo o que é necessário para o produto. É a única fonte de requisitos para quaisquer alterações a serem feitas no produto. O Product Owner é responsável pelo Backlog do Produto, incluindo seu conteúdo, disponibilidade e ordenação. Ele contém todos os recursos, funcionalidades, requisitos, melhorias e correções que constituem as mudanças a serem feitas no produto em futuras versões.
+
+3- O que significa um Sprint no Scrum? Quanto tempo dura geralmente uma Sprint?
+Um Sprint é um período de tempo no Scrum durante o qual um incremento de produto utilizável e potencialmente liberável é criado. É uma unidade de tempo fixa que geralmente dura de uma a quatro semanas, sendo mais comum durar duas semanas. Cada Sprint começa com uma reunião de planejamento onde as tarefas a serem completadas são determinadas, e termina com uma revisão do Sprint e uma retrospectiva.
+
+4- O que são as Daily Meetings? Quanto tempo duram geralmente? Quais as três perguntas realizadas durante este evento?
+As Daily Meetings, também conhecidas como Daily Scrum, são reuniões diárias de curta duração (geralmente 15 minutos) onde a equipe de desenvolvimento se reúne para sincronizar as atividades e criar um plano para as próximas 24 horas. Durante estas reuniões, cada membro da equipe responde a três perguntas:
+
+    O que eu fiz ontem que ajudou a equipe a atingir a meta do Sprint?
+    O que eu farei hoje para ajudar a equipe a atingir a meta do Sprint?
+    Existem impedimentos que estão me atrapalhando ou atrapalhando a equipe a atingir a meta do Sprint?
+
+5- Qual a característica principal da metodologia Kanban?
+A característica principal da metodologia Kanban é a visualização do trabalho para melhorar a eficiência do fluxo de trabalho. Ela utiliza um quadro Kanban, que é uma ferramenta visual onde as tarefas são representadas por cartões em diferentes colunas que correspondem a diferentes estágios do processo de trabalho. Isso ajuda a equipe a ver o progresso das tarefas, identificar gargalos e fazer ajustes para melhorar o fluxo contínuo de trabalho.
+
+6- Para que serve a ferramenta Jira?
+A ferramenta Jira é utilizada para o gerenciamento de projetos e rastreamento de problemas. É amplamente utilizada por equipes que seguem metodologias ágeis, como Scrum e Kanban, para planejar, acompanhar, e gerenciar tarefas, bugs e projetos. Jira oferece funcionalidades para a criação de sprints, manutenção de backlogs, visualização do progresso através de gráficos e relatórios, e facilita a colaboração entre membros da equipe.
+
+7- O que é o Git?
+Git é um sistema de controle de versão distribuído, amplamente utilizado no desenvolvimento de software para rastrear mudanças no código-fonte ao longo do tempo. Ele permite que múltiplos desenvolvedores trabalhem simultaneamente em um projeto, mantendo um histórico completo de todas as alterações, facilitando a colaboração e a integração de código.
+
+8- O que é o GitHub?
+GitHub é uma plataforma de hospedagem de código-fonte que utiliza o sistema de controle de versão Git. Ele fornece uma interface web para o Git, além de funcionalidades adicionais como gerenciamento de projetos, integração contínua, e ferramentas de colaboração, como pull requests e revisões de código. GitHub permite que desenvolvedores colaborem em projetos de forma mais eficiente, seja em repositórios públicos ou privados.
